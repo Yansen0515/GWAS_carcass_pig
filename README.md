@@ -1,18 +1,33 @@
-# Title: Single-step genome-wide association analysis identifies genomic regions and candidate genes influencing seven carcass traits in Pietrain × Landrace crossbred pigs
+# Title: Genetic characterization and single-step GWAS identify candidate regions and genes for seven carcass traits in Belgian Pietrain × Landrace crossbred pigs
 
 # Supplementary material
 
-### The following four supplementary files are available:
+## The following 7 supplementary files are available:
 
-### 1. Supplementary_file_S1_Tables1_FigS1.docx
-Contains Table S1 and Figure S1, providing detailed descriptive statistics and a graphical illustration of data distribution.
+### 1. Supplementary_file_S1_simple_size_distribution.docx
 
-### 2. Supplementary_file_S2_GO_KEGG.csv:
+Provides Table S1 and Figure S1, summarizing the sample size distribution and descriptive statistics of the dataset.
+
+### 2. Supplementary_file_S2_population_characterization.docx
+
+Includes results of PCA on the population in ssGWAS and two purebred breeds.
+
+### 3. Supplementary_file_S3_results_single_trait_models.docx
+
+Contains the results from the single-trait animal models, including heritability estimates, and GEBV accuracies (7 traits x 3 models), and Manhattan Map
+
+### 4. Supplementary_file_S4_results_7-trait_model_including_5PCs.docx
+
+Reports the results of the seven-trait animal model incorporating the first five principal components, including heritability estimates, genomic regions, and Manhattan Map.
+
+### 5. Supplementary_file_S5_GO_KEGG_50SNP.csv
+
 Gene Ontology (GO) and KEGG pathway enrichment results in detail.
 
-### 3. Supplementary_file_S3_QTL_enrich_filtered.csv
+### 6. Supplementary_file_S6_QTL_enrich_filtered_50SNP.csv
 
 Filtered significantly QTL enrichment results associated with the selected genomic regions.
 
-### 4. Supplementary_file_S4_pigbiobank_selected_lead_SNP.csv
+### 7. Supplementary_file_S7_pigbiobank_selected_lead_snp_50SNP.csv
+
 Information on the lead SNPs among the selected genomic regions was retrieved from the Pigbiobank database.
