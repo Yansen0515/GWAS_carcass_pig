@@ -6,7 +6,7 @@
 
 ### 1. Supplementary_file_S1_simple_size_distribution.docx
 
-Provides Table S1 and Figure S1, summarizing the sample size distribution and descriptive statistics of the dataset.
+Summarizing the sample size distribution and descriptive statistics of the dataset.
 
 ### 2. Supplementary_file_S2_population_characterization.docx
 
