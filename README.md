@@ -4,13 +4,13 @@
 
 ## The following 7 supplementary files are available:
 
-### 1. Supplementary_file_S1_simple_size_distribution.docx
+### 1.  Supplementary_file_S1_population_characterization.docx
+
+Includes results of PCA on the population in imputed, ssGWAS, and two purebred breeds.
+
+### 2.Supplementary_file_S2_simple_size_distribution.docx
 
 Summarizing the sample size distribution and descriptive statistics of the dataset.
-
-### 2. Supplementary_file_S2_population_characterization.docx
-
-Includes results of PCA on the population in ssGWAS and two purebred breeds.
 
 ### 3. Supplementary_file_S3_results_single_trait_models.docx
 
