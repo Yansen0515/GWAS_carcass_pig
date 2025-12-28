@@ -1,4 +1,4 @@
-# Title: Genetic characterization and single-step GWAS identify candidate regions and genes for seven carcass traits in Belgian Pietrain × Landrace crossbred pigs
+# Title:  single-step GWAS identify candidate regions and genes for seven carcass traits in Belgian Pietrain × Landrace crossbred pigs
 
 # Supplementary material
 
@@ -6,7 +6,7 @@
 
 ### 1.  Supplementary_file_S1_population_characterization.docx
 
-Includes results of PCA on the population in imputed, ssGWAS, and two purebred breeds.
+Includes PCA results for pigs genotyped with the 80K SNP chip and imputed from the 50K SNP chip.
 
 ### 2.Supplementary_file_S2_simple_size_distribution.docx
 
