@@ -8,7 +8,7 @@
 
 Includes PCA results for pigs genotyped with the 80K SNP chip and imputed from the 50K SNP chip.
 
-### 2.Supplementary_file_S2_simple_size_distribution.docx
+### 2. Supplementary_file_S2_simple_size_distribution.docx
 
 Summarizing the sample size distribution and descriptive statistics of the dataset.
 
