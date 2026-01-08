@@ -14,11 +14,11 @@ Summarizing the sample size distribution and descriptive statistics of the datas
 
 ### 3. Supplementary_file_S3_results_single_trait_models.docx
 
-Contains the results from the single-trait animal models, including heritability estimates, and GEBV accuracies (7 traits x 3 models), and Manhattan Map
+Contains the results from the single-trait animal models, including heritability, accuracy of GEBV (7 traits x 3 models), and Manhattan plot.
 
 ### 4. Supplementary_file_S4_results_7-trait_model_including_5PCs.docx
 
-Reports the results of the seven-trait animal model incorporating the first five principal components, including heritability estimates, genomic regions, and Manhattan Map.
+Reports the results of the seven-trait animal model incorporating the first five principal components, including heritability, genomic regions, and Manhattan plots.
 
 ### 5. Supplementary_file_S5_GO_KEGG_50SNP.csv
 
